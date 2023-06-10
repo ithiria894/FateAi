@@ -145,10 +145,12 @@ def generateFeatures(man_df):
     #財透干
     #create new column named man財透干, if man流年天干十神 is 偏財 or 正財, then True, else False
     man_df['man財透干'] = man_df['man流年天干十神'].apply(lambda x: True if x in ['偏財', '正財'] else False)
+    man_df['man官透干'] = man_df['man流年天干十神'].apply(lambda x: True if x in ['正官', '七殺'] else False)
     # man_df['man財透干2'] = man_df['man流年天干十神'].apply(lambda x: True if x in ['偏財', '正財'] else False)
     #財得地
     #create new column named man財得地, if man流年地支十神 is 偏財 or 正財, then True, else False
     man_df['man財得地'] = man_df['man流年地支十神'].apply(lambda x: True if x in ['偏財', '正財'] else False)
+    man_df['man官得地'] = man_df['man流年地支十神'].apply(lambda x: True if x in ['正官', '七殺'] else False)
     # man_df['man財得地2'] = man_df['man流年地支十神'].apply(lambda x: True if x in ['偏財', '正財'] else False)
     #大運流年天地合
 
@@ -167,7 +169,7 @@ def generateFeatures(man_df):
 
     #流年雙體財
     man_df['man流年雙體財'] = man_df.apply(lambda row: True if row['man財透干'] and row['man財得地'] else False, axis=1)
-
+    man_df['man流年雙體官'] = man_df.apply(lambda row: True if row['man官透干'] and row['man官得地'] else False, axis=1)
 
     # man_df['man日干支關係'] = man_df.apply(lambda row: gan_zhi_relation(row['man日干'], row['man日支']), axis=1)
 
