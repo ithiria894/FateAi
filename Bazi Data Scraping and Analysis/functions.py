@@ -88,7 +88,7 @@ def count_liuhe(dizhi_str):
 
 
 import sys
-sys.path.append(r"C:\Users\TOSHIBA\Documents\Github\FateAi\crystal-bazi")
+sys.path.append(r"../crystal-bazi")
 # import main
 import metaphysic
 
