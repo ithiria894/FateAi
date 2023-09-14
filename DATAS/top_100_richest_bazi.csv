@@ -1,0 +1,101 @@
+rank,name,net_worth,bday,age,nationality,Birthday,bazi_man,man年干,man年支,man月干,man月支,man日干,man日支,man時干,man時支
+1,Elon Musk,$240 Billion,28-Jun-71,51.0,South Africa,2071-06-28,"['辛', '卯', '甲', '午', '己', '巳', '甲', '子']",辛,卯,甲,午,己,巳,甲,子
+2,Jeff Bezos,$150 Billion,12-Jan-64,58.0,United States of America,2064-01-12,"['癸', '未', '乙', '丑', '乙', '巳', '丙', '子']",癸,未,乙,丑,乙,巳,丙,子
+3,Gautam Adani,$138 Billion,24-Jun-62,60.0,India,2062-06-24,"['壬', '午', '丙', '午', '戊', '寅', '壬', '子']",壬,午,丙,午,戊,寅,壬,子
+4,Bernard Arnault,$135 Billion,5-Mar-49,73.0,France,2049-03-05,"['己', '巳', '丁', '卯', '己', '卯', '甲', '子']",己,巳,丁,卯,己,卯,甲,子
+5,Bill Gates,$118 Billion,28-Oct-55,66.0,United States of America,2055-10-28,"['乙', '亥', '丙', '戌', '丁', '未', '庚', '子']",乙,亥,丙,戌,丁,未,庚,子
+6,Warren Buffett,$101 Billion,30-Aug-30,92.0,United States of America,2030-08-30,"['庚', '戌', '甲', '申', '丁', '酉', '庚', '子']",庚,戌,甲,申,丁,酉,庚,子
+7,Larry Page,$100 Billion,26-Mar-73,49.0,United States of America,1973-03-26,"['癸', '丑', '乙', '卯', '辛', '酉', '戊', '子']",癸,丑,乙,卯,辛,酉,戊,子
+8,Sergey Brin,$96 Billion,21-Aug-73,48.0,United States of America,1973-08-21,"['癸', '丑', '庚', '申', '己', '丑', '甲', '子']",癸,丑,庚,申,己,丑,甲,子
+9,Steve Ballmer,$94 Billion,24-Mar-56,66.0,United States of America,2056-03-24,"['丙', '子', '辛', '卯', '乙', '亥', '丙', '子']",丙,子,辛,卯,乙,亥,丙,子
+10,Larry Ellison,$93 Billion,17-Aug-44,78.0,United States of America,2044-08-17,"['甲', '子', '壬', '申', '戊', '戌', '壬', '子']",甲,子,壬,申,戊,戌,壬,子
+11,Alain & Gerard Wertheimer,$90 Billion,,,France,,,,,,,,,,
+12,Mukesh Ambani,$89 Billion,19-Apr-57,65.0,India,2057-04-19,"['丁', '丑', '甲', '辰', '丙', '午', '戊', '子']",丁,丑,甲,辰,丙,午,戊,子
+13,Carlos Slim Helu,$72 Billion,28-Jan-40,82.0,Mexico,2040-01-28,"['己', '未', '丁', '丑', '乙', '卯', '丙', '子']",己,未,丁,丑,乙,卯,丙,子
+14,Vladimir Putin,$70 Billion,7-Oct-52,69.0,Russia,2052-10-07,"['壬', '申', '庚', '戌', '辛', '未', '戊', '子']",壬,申,庚,戌,辛,未,戊,子
+15,Françoise Bettencourt-Meyers,$70 Billion,10-Jul-53,69.0,France,2053-07-10,"['癸', '酉', '己', '未', '丁', '未', '庚', '子']",癸,酉,己,未,丁,未,庚,子
+16,Amancio Ortega Gaona,$70 Billion,28-Mar-36,86.0,Spain,2036-03-28,"['丙', '辰', '辛', '卯', '甲', '午', '甲', '子']",丙,辰,辛,卯,甲,午,甲,子
+17,Michael Bloomberg,$70 Billion,14-Feb-42,80.0,United States of America,2042-02-14,"['壬', '戌', '壬', '寅', '癸', '未', '壬', '子']",壬,戌,壬,寅,癸,未,壬,子
+18,Mark Zuckerberg,$70 Billion,14-May-84,38.0,United States of America,1984-05-14,"['甲', '子', '己', '巳', '戊', '申', '壬', '子']",甲,子,己,巳,戊,申,壬,子
+19,Rob Walton,$68 Billion,28-Oct-44,77.0,United States of America,2044-10-28,"['甲', '子', '甲', '戌', '庚', '戌', '丙', '子']",甲,子,甲,戌,庚,戌,丙,子
+20,Jim Walton,$68 Billion,7-Jun-48,74.0,United States of America,2048-06-07,"['戊', '辰', '戊', '午', '戊', '申', '壬', '子']",戊,辰,戊,午,戊,申,壬,子
+21,Zhong Shanshan,$68 Billion,,,China,,,,,,,,,,
+22,Alice Walton,$66 Billion,7-Oct-49,72.0,United States of America,2049-10-07,"['己', '巳', '癸', '酉', '乙', '卯', '丙', '子']",己,巳,癸,酉,乙,卯,丙,子
+23,Julia Flesher Koch,$62 Billion,12-Apr-62,60.0,United States of America,2062-04-12,"['壬', '午', '甲', '辰', '乙', '丑', '丙', '子']",壬,午,甲,辰,乙,丑,丙,子
+24,Charles Koch,$60 Billion,1-Nov-35,86.0,United States of America,2035-11-01,"['乙', '卯', '丙', '戌', '丙', '寅', '戊', '子']",乙,卯,丙,戌,丙,寅,戊,子
+25,Michael Dell,$52 Billion,23-Feb-65,57.0,United States of America,2065-02-23,"['乙', '酉', '戊', '寅', '癸', '巳', '壬', '子']",乙,酉,戊,寅,癸,巳,壬,子
+26,Francois Pinault,$50 Billion,21-Aug-36,86.0,France,2036-08-21,"['丙', '辰', '丙', '申', '庚', '申', '丙', '子']",丙,辰,丙,申,庚,申,丙,子
+27,David Thomson,$50 Billion,12-Jun-57,65.0,Canada,2057-06-12,"['丁', '丑', '丙', '午', '庚', '子', '丙', '子']",丁,丑,丙,午,庚,子,丙,子
+28,Ma Huateng,$48 Billion,29-Oct-71,50.0,China,2071-10-29,"['辛', '卯', '戊', '戌', '壬', '申', '庚', '子']",辛,卯,戊,戌,壬,申,庚,子
+29,Alain Wertheimer,$45 Billion,28-Sep-48,73.0,France,2048-09-28,"['戊', '辰', '辛', '酉', '辛', '丑', '戊', '子']",戊,辰,辛,酉,辛,丑,戊,子
+30,Gerard Wertheimer,$45 Billion,17-Apr-51,71.0,French,2051-04-17,"['辛', '未', '壬', '辰', '壬', '申', '庚', '子']",辛,未,壬,辰,壬,申,庚,子
+31,Zhang Yiming,$44 Billion,1-Apr-83,39.0,China,1983-04-01,"['癸', '亥', '乙', '卯', '己', '未', '甲', '子']",癸,亥,乙,卯,己,未,甲,子
+32,Tadashi Yanai,$42 Billion,7-Feb-49,73.0,Japan,2049-02-07,"['己', '巳', '丙', '寅', '癸', '丑', '壬', '子']",己,巳,丙,寅,癸,丑,壬,子
+33,John Mars,$42 Billion,15-Oct-35,86.0,United States of America,2035-10-15,"['乙', '卯', '丙', '戌', '己', '酉', '甲', '子']",乙,卯,丙,戌,己,酉,甲,子
+34,Jacqueline Mars,$42 Billion,10-Oct-39,82.0,United States of America,2039-10-10,"['己', '未', '甲', '戌', '乙', '丑', '丙', '子']",己,未,甲,戌,乙,丑,丙,子
+35,Phil Knight,$40 Billion,24-Feb-38,84.0,United States of America,2038-02-24,"['戊', '午', '甲', '寅', '壬', '申', '庚', '子']",戊,午,甲,寅,壬,申,庚,子
+36,Vladimir Potanin,$35 Billion,3-Jan-61,61.0,Russia,2061-01-03,"['庚', '辰', '戊', '子', '辛', '巳', '戊', '子']",庚,辰,戊,子,辛,巳,戊,子
+37,Stephen Schwarzman,$35 Billion,14-Feb-47,75.0,United States of America,2047-02-14,"['丁', '卯', '壬', '寅', '己', '酉', '甲', '子']",丁,卯,壬,寅,己,酉,甲,子
+38,Jack Ma,$34 Billion,15-Oct-64,57.0,China,2064-10-15,"['甲', '申', '甲', '戌', '壬', '午', '庚', '子']",甲,申,甲,戌,壬,午,庚,子
+39,Miriam Adelson,$34 Billion,10-Oct-45,76.0,"American, Israeli",2045-10-10,"['乙', '丑', '丙', '戌', '丁', '酉', '庚', '子']",乙,丑,丙,戌,丁,酉,庚,子
+40,Colin Huang,$33 Billion,1-Jan-80,42.0,China,1980-01-01,"['己', '未', '丙', '子', '癸', '酉', '壬', '子']",己,未,丙,子,癸,酉,壬,子
+41,Lee Shau Kee,$33 Billion,29-Jan-28,94.0,China,2028-01-29,"['丁', '未', '癸', '丑', '癸', '丑', '壬', '子']",丁,未,癸,丑,癸,丑,壬,子
+42,Len Blavatnik,$32 Billion,14-Jun-57,65.0,United Kingdom,2057-06-14,"['丁', '丑', '丙', '午', '壬', '寅', '庚', '子']",丁,丑,丙,午,壬,寅,庚,子
+43,Li Ka-shing,$31 Billion,29-Jul-28,94.0,Canada,2028-07-29,"['戊', '申', '己', '未', '乙', '卯', '丙', '子']",戊,申,己,未,乙,卯,丙,子
+44,Gina Rinehart,$31 Billion,9-Feb-54,68.0,Australia,2054-02-09,"['甲', '戌', '丙', '寅', '辛', '巳', '戊', '子']",甲,戌,丙,寅,辛,巳,戊,子
+45,Sheikh Mansour bin Zayed Al Nahyan,$30 Billion,20-Nov-70,51.0,Emirati,2070-11-20,"['庚', '寅', '丁', '亥', '己', '丑', '甲', '子']",庚,寅,丁,亥,己,丑,甲,子
+46,Masayoshi Son,$30 Billion,11-Aug-57,65.0,Japan,2057-08-11,"['丁', '丑', '戊', '申', '庚', '子', '丙', '子']",丁,丑,戊,申,庚,子,丙,子
+47,Sultan of Brunei,$30 Billion,15-Jul-46,76.0,Brunei,2046-07-15,"['丙', '寅', '乙', '未', '乙', '亥', '丙', '子']",丙,寅,乙,未,乙,亥,丙,子
+48,Maha Vajiralongkorn,$30 Billion,28-Jul-52,70.0,Thailand,2052-07-28,"['壬', '申', '丁', '未', '庚', '申', '丙', '子']",壬,申,丁,未,庚,申,丙,子
+49,Giovanni Ferrero,$28 Billion,21-Sep-64,57.0,Italy,2064-09-21,"['甲', '申', '癸', '酉', '戊', '午', '壬', '子']",甲,申,癸,酉,戊,午,壬,子
+50,Ken Griffin,$28 Billion,15-Oct-68,53.0,United States of America,2068-10-15,"['戊', '子', '壬', '戌', '癸', '卯', '壬', '子']",戊,子,壬,戌,癸,卯,壬,子
+51,Abigail Johnson,$28 Billion,19-Dec-61,60.0,United States of America,2061-12-19,"['辛', '巳', '庚', '子', '辛', '未', '戊', '子']",辛,巳,庚,子,辛,未,戊,子
+52,He Xiangjian,$27 Billion,5-Oct-42,79.0,China,2042-10-05,"['壬', '戌', '己', '酉', '丙', '子', '戊', '子']",壬,戌,己,酉,丙,子,戊,子
+53,Dieter Schwarz,$27 Billion,24-Sep-39,82.0,Germany,2039-09-24,"['己', '未', '癸', '酉', '己', '酉', '甲', '子']",己,未,癸,酉,己,酉,甲,子
+54,William Ding,$26 Billion,1-Oct-71,50.0,China,2071-10-01,"['辛', '卯', '丁', '酉', '甲', '辰', '甲', '子']",辛,卯,丁,酉,甲,辰,甲,子
+55,Shiv Nadar,$25.9 Billion,14-Jul-45,77.0,India,2045-07-14,"['乙', '丑', '癸', '未', '己', '巳', '甲', '子']",乙,丑,癸,未,己,巳,甲,子
+56,Stefan Persson,$25 Billion,4-Oct-47,74.0,Sweden,2047-10-04,"['丁', '卯', '己', '酉', '辛', '丑', '戊', '子']",丁,卯,己,酉,辛,丑,戊,子
+57,Joseph Safra,$25 Billion,1-Sep-38,,Brazil,2038-09-01,"['戊', '午', '庚', '申', '辛', '巳', '戊', '子']",戊,午,庚,申,辛,巳,戊,子
+58,Eric Yuan,$25 Billion,20-Feb-70,52.0,China,2070-02-20,"['庚', '寅', '戊', '寅', '丙', '辰', '戊', '子']",庚,寅,戊,寅,丙,辰,戊,子
+59,Carl Icahn,$24 Billion,16-Feb-36,86.0,United States of America,2036-02-16,"['丙', '辰', '庚', '寅', '癸', '丑', '壬', '子']",丙,辰,庚,寅,癸,丑,壬,子
+60,Takemitsu Takizaki,$24 Billion,10-Jun-45,77.0,Japan,2045-06-10,"['乙', '丑', '壬', '午', '乙', '未', '丙', '子']",乙,丑,壬,午,乙,未,丙,子
+61,Pierre Omidyar,$24 Billion,21-Jun-67,55.0,United States of America,2067-06-21,"['丁', '亥', '丙', '午', '辛', '丑', '戊', '子']",丁,亥,丙,午,辛,丑,戊,子
+62,Forrest Mars Jr,$23.4 Billion,16-Aug-31,91.0,United States of America,2031-08-16,"['辛', '亥', '丙', '申', '戊', '子', '壬', '子']",辛,亥,丙,申,戊,子,壬,子
+63,Jorge Paulo Lemann,$23 Billion,26-Aug-39,83.0,Brazil,2039-08-26,"['己', '未', '壬', '申', '庚', '辰', '丙', '子']",己,未,壬,申,庚,辰,丙,子
+64,Eric Schmidt,$23 Billion,27-Apr-55,67.0,United States of America,2055-04-27,"['乙', '亥', '庚', '辰', '癸', '卯', '壬', '子']",乙,亥,庚,辰,癸,卯,壬,子
+65,Satoshi Nakamoto,$22 Billion,5-Apr-75,73.0,Japan,1975-04-05,"['乙', '卯', '庚', '辰', '辛', '巳', '戊', '子']",乙,卯,庚,辰,辛,巳,戊,子
+66,Qin Yinglin,$22 Billion,,57.0,China,,,,,,,,,,
+67,James Simons,$22 Billion,25-Apr-38,84.0,United States of America,2038-04-25,"['戊', '午', '丙', '辰', '壬', '申', '庚', '子']",戊,午,丙,辰,壬,申,庚,子
+68,Wang Wei,$22 Billion,,51.0,China,,,,,,,,,,
+69,James Dyson,$22 Billion,2-May-47,75.0,United Kingdom,2047-05-02,"['丁', '卯', '甲', '辰', '丙', '寅', '戊', '子']",丁,卯,甲,辰,丙,寅,戊,子
+70,Aliko Dangote,$21 Billion,10-Apr-57,65.0,Nigeria,2057-04-10,"['丁', '丑', '甲', '辰', '丁', '酉', '庚', '子']",丁,丑,甲,辰,丁,酉,庚,子
+71,Leonard Lauder,$21 Billion,19-Mar-33,89.0,United States of America,2033-03-19,"['癸', '丑', '乙', '卯', '己', '巳', '甲', '子']",癸,丑,乙,卯,己,巳,甲,子
+72,Andrey Melnichenko,$21 Billion,8-Mar-72,50.0,Russia,2072-03-08,"['壬', '辰', '癸', '卯', '癸', '未', '壬', '子']",壬,辰,癸,卯,癸,未,壬,子
+73,Sir Evelyn De Rothschild,$20 Billion,29-Aug-31,90.0,England,2031-08-29,"['辛', '亥', '丙', '申', '辛', '丑', '戊', '子']",辛,亥,丙,申,辛,丑,戊,子
+74,Salman bin Abdulaziz Al Saud,$20 Billion,31-Dec-35,86.0,Saudi Arabia,2035-12-31,"['乙', '卯', '戊', '子', '丙', '寅', '戊', '子']",乙,卯,戊,子,丙,寅,戊,子
+75,Alexey Mordashov,$20 Billion,26-Sep-65,56.0,Russia,2065-09-26,"['乙', '酉', '乙', '酉', '戊', '辰', '壬', '子']",乙,酉,乙,酉,戊,辰,壬,子
+76,John Menard,$20 Billion,22-Jan-40,82.0,United States of America,2040-01-22,"['己', '未', '丁', '丑', '己', '酉', '甲', '子']",己,未,丁,丑,己,酉,甲,子
+77,Elaine Marshall,$20 Billion,18-Nov-45,76.0,United States of America,2045-11-18,"['乙', '丑', '丁', '亥', '丙', '子', '戊', '子']",乙,丑,丁,亥,丙,子,戊,子
+78,Rupert Murdoch,$20 Billion,11-Mar-31,91.0,Australia,2031-03-11,"['辛', '亥', '辛', '卯', '庚', '戌', '丙', '子']",辛,亥,辛,卯,庚,戌,丙,子
+79,Dan Gilbert,$20 Billion,17-Jan-62,60.0,United States of America,2062-01-17,"['辛', '巳', '辛', '丑', '庚', '子', '丙', '子']",辛,巳,辛,丑,庚,子,丙,子
+80,Leonid Mikhelson,$20 Billion,11-Aug-55,67.0,Russia,2055-08-11,"['乙', '亥', '甲', '申', '己', '丑', '甲', '子']",乙,亥,甲,申,己,丑,甲,子
+81,Pallonji Mistry,$19 Billion,1-Jun-29,,India,2029-06-01,"['己', '酉', '己', '巳', '壬', '戌', '庚', '子']",己,酉,己,巳,壬,戌,庚,子
+82,Susanne Klatten,$19 Billion,28-Apr-62,60.0,Germany,2062-04-28,"['壬', '午', '甲', '辰', '辛', '巳', '戊', '子']",壬,午,甲,辰,辛,巳,戊,子
+83,Eduardo Saverin,$19 Billion,19-Mar-82,40.0,Brazil,1982-03-19,"['壬', '戌', '癸', '卯', '辛', '丑', '戊', '子']",壬,戌,癸,卯,辛,丑,戊,子
+84,Vladimir Lisin,$19 Billion,7-May-56,66.0,Russia,2056-05-07,"['丙', '子', '癸', '巳', '己', '未', '甲', '子']",丙,子,癸,巳,己,未,甲,子
+85,James Ratcliffe,$19 Billion,18-Oct-52,69.0,United Kingdom,2052-10-18,"['壬', '申', '庚', '戌', '壬', '午', '庚', '子']",壬,申,庚,戌,壬,午,庚,子
+86,Laurene Powell Jobs,$19 Billion,6-Nov-63,58.0,United States of America,2063-11-06,"['癸', '未', '壬', '戌', '戊', '戌', '壬', '子']",癸,未,壬,戌,戊,戌,壬,子
+87,Lakshmi Mittal,$18 Billion,2-Sep-50,71.0,India,2050-09-02,"['庚', '午', '甲', '申', '乙', '酉', '丙', '子']",庚,午,甲,申,乙,酉,丙,子
+88,David & Simon Reuben,$18 Billion,,,United Kingdom,,,,,,,,,,
+89,Sheikh Khalifa Bin Zayed Al Nahyan,$18 Billion,25-Jan-48,74.0,United Arab Emirates,2048-01-25,"['丁', '卯', '癸', '丑', '甲', '午', '甲', '子']",丁,卯,癸,丑,甲,午,甲,子
+90,Alisher Usmanov,$18 Billion,9-Sep-53,68.0,Russia,2053-09-09,"['癸', '酉', '辛', '酉', '戊', '申', '壬', '子']",癸,酉,辛,酉,戊,申,壬,子
+91,Lukas Walton,$18 Billion,,36.0,United States of America,,,,,,,,,,
+92,Serge Dassault,$17.3 Billion,4-Apr-25,97.0,France,2025-04-04,"['乙', '巳', '庚', '辰', '癸', '卯', '壬', '子']",乙,巳,庚,辰,癸,卯,壬,子
+93,Pavel Durov,$17 Billion,10-Oct-84,37.0,Russia,1984-10-10,"['甲', '子', '甲', '戌', '丁', '丑', '庚', '子']",甲,子,甲,戌,丁,丑,庚,子
+94,Donald Bren,$17 Billion,11-May-32,90.0,United States of America,2032-05-11,"['壬', '子', '乙', '巳', '丁', '巳', '庚', '子']",壬,子,乙,巳,丁,巳,庚,子
+95,Thomas Peterffy,$17 Billion,30-Sep-44,77.0,United States of America,2044-09-30,"['甲', '子', '癸', '酉', '壬', '午', '庚', '子']",甲,子,癸,酉,壬,午,庚,子
+96,Prince Al Waleed Bin Talal Alsaud,$17 Billion,7-Mar-55,67.0,Saudi Arabia,2055-03-07,"['乙', '亥', '己', '卯', '壬', '子', '庚', '子']",乙,亥,己,卯,壬,子,庚,子
+97,Harold Hamm,$17 Billion,11-Dec-45,76.0,United States of America,2045-12-11,"['乙', '丑', '戊', '子', '己', '亥', '甲', '子']",乙,丑,戊,子,己,亥,甲,子
+98,Viktor Vekselberg,$17 Billion,14-Apr-57,65.0,Russia,2057-04-14,"['丁', '丑', '甲', '辰', '辛', '丑', '戊', '子']",丁,丑,甲,辰,辛,丑,戊,子
+99,Steven Cohen,$16 Billion,11-Jun-56,66.0,United States of America,2056-06-11,"['丙', '子', '甲', '午', '甲', '午', '甲', '子']",丙,子,甲,午,甲,午,甲,子
+100,Stefan Quandt,$16 Billion,9-May-66,56.0,Germany,2066-05-09,"['丙', '戌', '癸', '巳', '癸', '丑', '壬', '子']",丙,戌,癸,巳,癸,丑,壬,子
